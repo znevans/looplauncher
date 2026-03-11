@@ -8,7 +8,7 @@ Parts Total $62
 - 9 [SPST Soft Touch Momentary Footswitch ($18)](http://www.bitcheslovemyswitches.com/#!/SPST-Soft-Touch-Momentary-Footswitch-Normally-Open/p/10220659/category=5027572)
 - 1 [16x2 LCD ($10)](https://www.adafruit.com/product/181)
 - 1 [Panel Mount USB Cable - B Female to Micro-B Male ($4)](https://www.adafruit.com/products/937)
-- 1 [1590DD Enclosure ($10)](http://www.bitcheslovemyswitches.com/#!/1590DD/p/20370169/category=5027533)
+- 1 [1590DD Enclosure ($10)](https://lovemyswitches.com/1590dd/)
 - Miscellaneous hookup wire
 
 
@@ -68,5 +68,5 @@ I'm not really settled with the implementation.  I'm sure it's sloppy all over. 
 ### What's Next?
 - Adding a means to send static notes regardless of selected bank or mode (perhaps long pressing to get to an alternate mode an then sending set notes for each button).
 - Adding a root/5th mode to allow playing of pads rather than triggering.  The alternate mode will behave differently in that a triggered note will not send on off when the button is released.  Rather another button or 'stop' will have to be pressed to end the previous note.
--  Adding a means to change modes (Normal vs Pad)
+- Adding a means to change modes (Normal vs Pad)
  
